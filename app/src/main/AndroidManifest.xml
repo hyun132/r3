@@ -40,7 +40,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDZLroHkbnVAnMqy-Ck4eejU6VbXUQkZpY" />
+            android:value="" />
 
         <activity
             android:name=".MainActivity"
@@ -75,7 +75,7 @@
             android:value="@string/kakao_app_key" />
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-3940256099942544~3347511713" />
+            android:value="" />
     </application>
 
 </manifest>
